@@ -47,3 +47,5 @@ python translate_sign.py --webcam
 ```
 
 Press q to stop the webcam window.
+Video link: file:///C:/Users/Student/AppData/Local/CapCut/Videos/NVIDIA%20Submission.mp4
+
